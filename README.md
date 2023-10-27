@@ -1,6 +1,7 @@
 ## 👋🏾 Introducing Myself     
 
-![pexels-fauxels-3184454](https://github.com/Ogugko/KennethO/assets/143842831/b537f013-c170-4318-a055-e31264701e12)
+![pexels-fauxels-3184454 (1)](https://github.com/Ogugko/Ogugko/assets/143842831/9c58fd80-9a0d-42b1-99af-b657435cf3ac)
+
 
 Hello, I'm Kenneth. Aspiring Data Analyst with skills in data cleaning, data analysis and data visualisation.  
 
